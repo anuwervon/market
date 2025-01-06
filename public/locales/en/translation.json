@@ -1,0 +1,225 @@
+{
+    "Header":{
+        "1":"Home",
+        "2":"Contact",
+        "3":"About",
+        "4":"Sign Up"
+    },
+    "Sign":{
+        "h1":"Create an account",
+        "p":"Enter your details below",
+        "name":"Name",
+        "email":"Email or phone number",
+        "pass":"Password",
+        "btn":"Create Account",
+        "1":"Sign up with Google",
+        "2":"Already have account?",
+        "3":"Log in"
+    },
+    "Log":{
+        "h1":"Log in to Exclusive",
+        "btn":"Log In",
+        "p":"Forget Password?"
+    },
+    "Footer":{
+        "h1":"Exclusive",
+        "p1":"Subscribe",
+        "p11":"Get 10% off your first order",
+        "h2":"Support",
+        "p2":"111 Bijoy sarani, Dhaka,  DH 1515, Bangladesh.",
+        "h3":"Account",
+        "p3":"My Account",
+        "p31":"Cart",
+        "p32":"Wishlist",
+        "p33":"Shop",
+        "h4":"Quick Link",
+        "p4":"Privacy Policy",
+        "p41":"Terms Of Use",
+        "p42":"FAQ",
+        "p43":"Contact",
+        "h5":"Social",
+        "p":"Copyright Rimel 2022. All right reserved"
+    },
+
+    "hp1":{
+        "1":"Woman’s Fashion",
+        "2":"Men’s Fashion",
+        "3":"Electronics",
+        "4":"Home & Lifestyle",
+        "5":"Medicine",
+        "6":"Sports & Outdoor",
+        "7":"Baby’s & Toys",
+        "8":"Groceries & Pets",
+        "9":"Health & Beauty"
+    },
+    "copy":{
+        "p":"Today’s",
+        "h1":"Flash Sales",
+        "btn":"View All Products",
+        "p2":"Categories",
+        "h2":"Browse By Category",
+        "cart":"View Product",
+        "h3":"Best Selling Products",
+        "h4":"Explore Our Products",
+        "p3":"This Month",
+        "p4":"Our Products",
+        "btn2":"View All"
+    },
+    "box":{
+        "1":"Phones"
+    },
+    "hp2":{
+        "p":"Categories",
+        "h1":"Enhance Your Music Experience",
+        "h":"Hours",
+        "d":"Days",
+        "m":"Minutes",
+        "s":"Seconds",
+        "btn":"Buy Now!"
+    },
+    "hp3":{
+        "p":"Featured",
+        "h1":"New Arrival",
+        "h2":"PlayStation 5",
+        "p2":"Black and White version of the PS5 coming out on sale.",
+        "p3":"Shop Now"
+    },
+    "hp4":{
+        "h1":"FREE AND FAST DELIVERY",
+        "p":"Free delivery for all orders over $140"
+    },
+
+    "pt":{
+        "p":"Home /  Explore Our Products",
+        "opt1":"Populary"
+    },
+
+    "pp":{
+        "h1":"Category",
+        "h2":"Brands",
+        "h3":"Features",
+        "h4":"Price range",
+        "h5":"Condition",
+        "h6":"Ratings",
+        "btn":"Apply",
+        "p1":{
+            "1":"All products",
+            "2":"Electronics",
+            "3":"Home & Lifestyle",
+            "4":"Medicine",
+            "5":"Sports & Outdoor",
+            "6":"See all"
+        },
+        "p2":{
+            "1":"Samsung",
+            "2":"Apple",
+            "3":"Huawei",
+            "4":"Pocco",
+            "5":"Lenovo"
+        },
+        "p3":{
+            "1":"Metallic",
+            "2":"Plastic cover",
+            "3":"8GB Ram",
+            "4":"Super power",
+            "5":"Large Memory"
+        },
+        "p4":{
+            "1":"Any",
+            "2":"Refurbished",
+            "3":"Brand new",
+            "4":"Old items"
+        }
+    },
+
+    "i":{
+        "p":"Products",
+        "st1":"In Stock",
+        "st2":"Out of Stock",
+        "1":"Colours:",
+        "2":"Size:",
+        "btn":"Buy Now"
+    },
+
+    "c":{
+        "p":"Home / Cart",
+        "p1":"Coupon Code",
+        "btn2":"Apply",
+        "t":{
+            "1":"Product",
+            "2":"Price",
+            "3":"Quantity",
+            "4":"Subtotal"
+        },
+        "btn":{
+            "1":"Return To Shop",
+            "2":"Update Cart",
+            "3":"Remove all"
+        },
+        "box":{
+            "h1":"Cart Total",
+            "1":"Shipping:",
+            "2":"Free",
+            "3":"Total:",
+            "btn":"Procees to checkout"
+        }
+    },
+    "ch":{
+        "p":"Product / View Cart / CheckOut",
+        "left":{
+            "h1":"Billing Details",
+            "1":"First name",
+            "2":"Last name",
+            "3":"Street address",
+            "4":"Apartment, floor, etc. (optional)",
+            "5":"Town/City",
+            "6":"Phone number",
+            "7":"Email address",
+            "p":"Save this information for faster check-out next time"
+        },
+        "right":{
+            "1":"Bank",
+            "2":"Cash on delivery"
+        },
+        "btn":"Place Order"
+    },
+
+    "a":{
+        "p":"Home / About",
+        "left":{
+            "1":"Our Story",
+            "2":"Launced in 2015, Exclusive is South Asia’s premier online shopping makterplace with an active presense in Bangladesh. Supported by wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sallers and 300 brands and serves 3 millioons customers across the region. ",
+            "3":"Exclusive has more than 1 Million products to offer, growing at a very fast. Exclusive offers a diverse assotment in categories ranging  from consumer.",
+            "4":"Sallers active our site"
+        },
+        "box":{
+            "1":"Tom Cruise",
+            "p":"Founder & Chairman"
+        }
+    },
+
+    "con":{
+        "p":"Home / Contact",
+        "h1":"Call To Us",
+        "p1":"We are available 24/7, 7 days a week. "
+    },
+
+    "acc":{
+        "p":"Home / My Account",
+        "left":{
+            "h1":"Manage My Account",
+            "p1":"My Profile",
+            "p2":"Address Book",
+            "p3":"My Payment Options",
+            "h2":"My Orders",
+            "p22":"My Returns",
+            "p23":"My Cancellations",
+            "h3":"My WishList"
+        },
+        "right":{
+            "h1":"Profile",
+            "h2":"Password Changes"
+        },
+        "btn":"Save Changes"
+    }
+}
