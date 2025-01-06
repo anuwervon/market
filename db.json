@@ -1,0 +1,13 @@
+{
+    "prod":[
+        {
+            "id":"1",
+            "img":"/src/pages/home/g92-2-500x500 1.png",
+            "name":"Havic HV G-92 Gamepad",
+            "status":true,
+            "price":"192.00",
+            "text":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+            "qty":"80"
+        }
+    ]
+}
